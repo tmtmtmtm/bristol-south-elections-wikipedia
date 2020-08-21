@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Bristol_South_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q578636",
+    "start": "1885",
+    "end": "9999"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate"
+}
